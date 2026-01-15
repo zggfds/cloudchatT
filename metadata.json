@@ -1,0 +1,5 @@
+{
+  "name": "TeleClone",
+  "description": "A modern, secure, and fast web messenger inspired by Telegram using Firebase Firestore for real-time communication without passwords.",
+  "requestFramePermissions": []
+}
